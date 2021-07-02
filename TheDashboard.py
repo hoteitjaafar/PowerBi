@@ -1,8 +1,8 @@
 import streamlit as st
 
-st.write('''Thank you for accessing the link. Please use the navigation tool to access the Desired Dashboard. 
-              Thank you,
-              Jaafar Hoteit.''')
+#st.write('''Thank you for accessing the link. Please use the navigation tool to access the Desired Dashboard. 
+ #             Thank you,
+ #             Jaafar Hoteit.''')
 
 #option = st.selectbox('Navigate Here', ['PowerBi Dashboard']) 
 
